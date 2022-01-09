@@ -1,0 +1,22 @@
+import 'package:project/screens/add_product/add_product.dart';
+
+const REGISTER ="register";
+const LOGIN='login';
+const ADD_PRODUCT="create-product";
+const ADD_CATEGORY="create-category";
+const SHOW_PROFILE="show-profile";
+const ALL_CATEGORY="list-all-categories";
+const ONE_CATEGORY='list-single-categorie/';
+const DELETE_CATEGORY="delete-category/";
+const EDIT_CATEGORY="update-category/";
+const ALL_PRODUCTS="list-all-products";
+const SEARCHING_NAME="search/";
+const MY_PRODUCT="list-owner-products";
+const PROFILE="show-profile";
+const EDIT_PRODUCT="update-product/";
+const DELETE_PRODUCT="delete-product/";
+const DETAILS_PRODUCT="find-product/";
+const LIKES="manage_likes/";
+const SORTING="order";
+const SHOW_CATEGORY="list-categorie-products/";
+const COMMENT="create_comment/";
